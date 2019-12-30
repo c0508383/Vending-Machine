@@ -1,0 +1,30 @@
+Snickers
+1.25
+10
+Milky Way
+1.00
+10
+Gum
+0.75
+10 
+Doritos
+2.25
+8
+Cheetos
+2.50
+9 
+Lays Potato Chips
+1.75
+10 
+Oreos
+2.5
+10 
+Peanuts
+0.75
+10 
+Corn Nuts
+1.5
+8 
+Honey Buns
+1
+10

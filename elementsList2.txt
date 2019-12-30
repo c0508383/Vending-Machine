@@ -1,0 +1,30 @@
+Peanut M&M’s
+2.25
+8
+Twix
+1.75
+7
+Reeses Peanut Butter Cups
+1.5
+6
+Butterfinger
+1.25
+10
+Milk Duds
+1.00
+6
+Milky Way
+.75
+10
+Baby Ruth
+2.5
+10 
+Rice Crispy Treats
+1.5
+7
+Strawberry Pop Tarts
+2.0
+8
+Pretzels
+2.00
+5

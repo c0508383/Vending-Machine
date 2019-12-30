@@ -1,0 +1,12 @@
+Current cash in machine: $0.00
+Items needed:
+Snickers: 0
+Milky Way: 0
+Gum: 0
+Doritos: 2
+Cheetos: 1
+Lays Potato Chips: 0
+Oreos: 0
+Peanuts: 0
+Corn Nuts: 2
+Honey Buns: 0
